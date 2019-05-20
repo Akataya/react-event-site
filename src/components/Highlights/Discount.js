@@ -37,7 +37,7 @@ class Discount extends Component {
 
           <Slide right>
             <div className="discount_description">
-              <h3>Purchase tickets before 20th of July!</h3>
+              <h3>Purchase tickets before 20th of August!</h3>
               <p>
                 Many desktop publishing packages and web page editors now use
                 Lorem Ipsum as their default model text, and a search for 'lorem
